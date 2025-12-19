@@ -16,3 +16,4 @@ D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO\obj\Debug\net10.0\
 D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO\obj\Debug\net10.0\Estudo_DIO.pdb
 D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO\obj\Debug\net10.0\Estudo_DIO.genruntimeconfig.cache
 D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO\obj\Debug\net10.0\ref\Estudo_DIO.dll
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\estudo_dio\obj\Debug\net10.0\Estudo_DIO.sourcelink.json

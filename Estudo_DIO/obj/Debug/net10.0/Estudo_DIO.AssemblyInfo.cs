@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estudo_DIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00dc963fd0c1d69e1cf7ecdd7edd9a98720901eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estudo_DIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estudo_DIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

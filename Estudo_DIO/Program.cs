@@ -1,5 +1,64 @@
-﻿using Estudo_DIO_Classes;
+﻿using System.Diagnostics.Contracts;
+using Estudo_DIO_Classes;
 
+// - LISTAS
+
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+
+Console.WriteLine("LISTA COM FOR");
+
+for(int i=0; i<listaString.Count; i++)
+{
+    Console.WriteLine($"Posição n° {i+1} = {listaString[i]}");
+}
+
+Console.WriteLine("LISTA COM FOREACH");
+
+int iforeach = 1;
+foreach(string item in listaString)
+{
+    Console.WriteLine($"Estado N° {iforeach} = {item}");
+    iforeach++;
+}
+
+
+
+
+
+//----------------------------------------------------
+
+//- ARRAYS
+
+// int[] vetorInteiros = new int[3];
+
+// vetorInteiros[0] = 13;
+// vetorInteiros[1] = 27;
+// vetorInteiros[2] = 35;
+
+// // MUDA O TAMANHO DO VETOR
+// // Array.Resize(ref vetorInteiros, vetorInteiros.Length * 2);
+
+
+// //CRIA UM NOVO VETOR COM O DOBRO DO TAMANHO
+// int[] vetorDobrado = new int[vetorInteiros.Length * 2];
+// Array.Copy(vetorInteiros, vetorDobrado, vetorInteiros.Length);
+
+
+
+// for (int i = 0; i < vetorInteiros.Length; i++)
+// {
+//     Console.WriteLine($"Posição {i+1} = {vetorInteiros[i]}");
+// }
+
+// //- FOREACH 
+// foreach (int item in vetorInteiros)
+// {
+//     Console.WriteLine($"Valor do item = {item}");
+// }
 
 
 //----------------------------------------------------

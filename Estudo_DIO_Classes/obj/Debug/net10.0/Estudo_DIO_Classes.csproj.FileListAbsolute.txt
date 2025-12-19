@@ -9,3 +9,4 @@ D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO_Classes\obj\Debug\
 D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO_Classes\obj\Debug\net10.0\refint\Estudo_DIO_Classes.dll
 D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO_Classes\obj\Debug\net10.0\Estudo_DIO_Classes.pdb
 D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO_Classes\obj\Debug\net10.0\ref\Estudo_DIO_Classes.dll
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\01\Estudo_DIO\Estudo_DIO_Classes\obj\Debug\net10.0\Estudo_DIO_Classes.sourcelink.json
